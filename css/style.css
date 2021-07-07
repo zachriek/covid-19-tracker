@@ -1,0 +1,33 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.heading {
+  border: 1px solid rgba(0, 0, 0, .1);
+  border-radius: 5px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);
+}
+
+.heading h1 {
+  font-size: 2rem;
+}
+
+.bg-merah-2 {
+  background: #ff3434;
+}
+
+.bg-hijau-3 {
+  background: #32b336;
+}
+
+.bg-merah-5 {
+  background: #ff0053;
+}
+
+.data-wrapper p {
+  font-size: 1.5rem;
+}
+
+.data-wrapper > div {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, .3);
+}
